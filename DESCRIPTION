@@ -1,0 +1,11 @@
+Package: squish
+Title: Squish it
+Version: 0.0.0.9000
+Authors@R: person("Michael W.", "Kearney", "", "kearneymw@missouri.edu", c("aut", "cre"))
+Description: A grammar of [data] squishing
+Depends: R (>= 3.4.1)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Maintainer: 'Michael Wayne Kearney' <kearneymw@missouri.edu>
+RoxygenNote: 6.0.1
